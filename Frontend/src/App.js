@@ -3,6 +3,7 @@ import { Routes, Route, Link } from 'react-router-dom';
 import Login from './components/Login';
 import JobList from './components/JobList';
 import JobForm from './components/JobForm';
+import JobForm from './components/Chat';
 
 function App() {
   return (
