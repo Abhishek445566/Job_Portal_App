@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\acer\Downloads\Project1.1\JobPortal\Backend"/>
 			<item value="C:\Users\acer\Downloads\Job Portal\Job-Portal"/>
 		</list>
 		<list key="projectNameTemplate">
