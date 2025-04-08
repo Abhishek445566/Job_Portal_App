@@ -24,6 +24,7 @@ function App() {
         <Route path="/" element={<JobList />} />
         <Route path="/login" element={<Login />} />
         <Route path="/create" element={<JobForm />} />
+        <Route path="/chat" element={<Chat />} />
       </Routes>
     </div>
   );
